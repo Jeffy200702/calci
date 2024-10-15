@@ -1,0 +1,43 @@
+.calci {
+    padding: 10px;
+    border-radius: 1em;
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    background-color: #272727;
+}
+
+.display {
+    background-color: rgba(128, 98, 98, 0.237);
+}
+
+#btn {
+    background-color: #fb0066;
+}
+
+#btn:hover {
+    background-color: #fb00646f;
+}
+
+#btn:active {
+    background-color: #a12e7d;
+}
+
+input {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #a12e7d;
+    color: white;
+    border: solid black 0.5px;
+    width: 100%;
+    border-radius: 5px;
+    height: 80%;
+    outline: none;
+}
+
+input:hover {
+    background-color: #64278f7a;
+}
+
+input:active {
+    background: #d904ff42;
+}
